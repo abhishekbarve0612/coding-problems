@@ -34,9 +34,24 @@ public class sortArrayOf0s1s2s {
           break;
       }
     }
-    for (int i = 0; i < arr.length; i++) {
-
+    int count = 0;
+    while (zeros > 0) {
+      arr[count] = 0;
+      count++;
+      zeros--;
     }
+    while (ones > 0) {
+      arr[count] = 0;
+      count++;
+      ones--;
+    }
+    while (twos > 0) {
+      arr[count] = 0;
+      count++;
+      twos--;
+    }
+
+    printArray(arr);
 
   }
 
