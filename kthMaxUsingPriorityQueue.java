@@ -1,8 +1,8 @@
-import java.util.Collection;
+
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-public class ktMaxUsingPriorityQueue {
+public class kthMaxUsingPriorityQueue {
   public static void main(String[] args) {
     PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
     PriorityQueue<Integer> minHeap = new PriorityQueue<>();
