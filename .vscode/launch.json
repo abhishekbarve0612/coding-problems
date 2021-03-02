@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch compressString",
+      "request": "launch",
+      "mainClass": "stringProblems.compressString",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch isItAnagram",
+      "request": "launch",
+      "mainClass": "stringProblems.isItAnagram",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
       "name": "Launch nextLargestElement",
       "request": "launch",
       "mainClass": "stackProblems.nextLargestElement",
