@@ -1,0 +1,231 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch nextLargestElement",
+      "request": "launch",
+      "mainClass": "stackProblems.nextLargestElement",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch arrayList",
+      "request": "launch",
+      "mainClass": "javaContainers.arrayList",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch stack",
+      "request": "launch",
+      "mainClass": "javaContainers.stack",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch aForAvg",
+      "request": "launch",
+      "mainClass": "DSAContest.aForAvg",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch proProduct",
+      "request": "launch",
+      "mainClass": "DSAContest.proProduct",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch cakeXor",
+      "request": "launch",
+      "mainClass": "DSAContest.cakeXor",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch nthNodeLinkedList",
+      "request": "launch",
+      "mainClass": "DSARevision.nthNodeLinkedList",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch quickSort",
+      "request": "launch",
+      "mainClass": "DSARevision.quickSort",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch selectionSort",
+      "request": "launch",
+      "mainClass": "DSARevision.selectionSort",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch insertionSort",
+      "request": "launch",
+      "mainClass": "DSARevision.insertionSort",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch bubbleSort",
+      "request": "launch",
+      "mainClass": "DSARevision.bubbleSort",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch linkedListPractice",
+      "request": "launch",
+      "mainClass": "LinkedListRevision.linkedListPractice",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch KthMaxInArray",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.KthMaxInArray",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch findAllDuplicatesInArray",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.findAllDuplicatesInArray",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch minAndMaxInArray",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.minAndMaxInArray",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch reverseAnArray",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.reverseAnArray",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch sortArrayOf0s1s2s",
+      "request": "launch",
+      "mainClass": "LeetCode.Arrays.sortArrayOf0s1s2s",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch dp01knapsack",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.dp01knapsack",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch dpIterative01knapsack",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.dpIterative01knapsack",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch recursive01knapsack",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.recursive01knapsack",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch electrostatics",
+      "request": "launch",
+      "mainClass": "electrostatics",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch kthMaxUsingPriorityQueue",
+      "request": "launch",
+      "mainClass": "kthMaxUsingPriorityQueue",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch largestContinuousSubArray",
+      "request": "launch",
+      "mainClass": "largestContinuousSubArray",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch maxSum",
+      "request": "launch",
+      "mainClass": "maxSum",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch recursion",
+      "request": "launch",
+      "mainClass": "recursion",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch rotateAString",
+      "request": "launch",
+      "mainClass": "rotateAString",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch rotateAnArrayInPlace",
+      "request": "launch",
+      "mainClass": "rotateAnArrayInPlace",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch segregateNegativeAndPositive",
+      "request": "launch",
+      "mainClass": "segregateNegativeAndPositive",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch sieveOfEratosthenes",
+      "request": "launch",
+      "mainClass": "sieveOfEratosthenes",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch singleNumber",
+      "request": "launch",
+      "mainClass": "singleNumber",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch unionOfTwoSortedArrays",
+      "request": "launch",
+      "mainClass": "unionOfTwoSortedArrays",
+      "projectName": "Competitive-Programming_c887ae82"
+    }
+  ]
+}
