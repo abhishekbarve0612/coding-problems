@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch stringSubset",
+      "request": "launch",
+      "mainClass": "recursion.stringSubset",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch deleteMidInStack",
+      "request": "launch",
+      "mainClass": "recursion.deleteMidInStack",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch fibonacci",
+      "request": "launch",
+      "mainClass": "recursion.fibonacci",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch sortArray",
+      "request": "launch",
+      "mainClass": "recursion.sortArray",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch printN",
+      "request": "launch",
+      "mainClass": "recursion.printN",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
       "name": "Launch compressString",
       "request": "launch",
       "mainClass": "stringProblems.compressString",
