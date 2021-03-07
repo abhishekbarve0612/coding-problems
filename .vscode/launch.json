@@ -6,6 +6,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch howSum",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.howSum",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch targetSum",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.targetSum",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch minimumPathSumInTriangle",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.minimumPathSumInTriangle",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch gridTraveller",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.gridTraveller",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch tribonacci",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.tribonacci",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch fibonacci",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.fibonacci",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch minimumJump",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.minimumJump",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch longestCommonSubstring",
+      "request": "launch",
+      "mainClass": "stringProblems.longestCommonSubstring",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch stringPermutation",
+      "request": "launch",
+      "mainClass": "stringProblems.stringPermutation",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch luckyBoys",
+      "request": "launch",
+      "mainClass": "DSAContest.luckyBoys",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
       "name": "Launch stringSubset",
       "request": "launch",
       "mainClass": "recursion.stringSubset",
