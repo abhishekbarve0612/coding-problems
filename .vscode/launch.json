@@ -6,6 +6,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch recursiveLowestCommonSubsequence",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.recursiveLowestCommonSubsequence",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch minimumCoinChange",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.minimumCoinChange",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch coinChange",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.coinChange",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch rodCutting",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.rodCutting",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch unboundedKnapsackDp",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.unboundedKnapsackDp",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch unboundedKnapsack",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.unboundedKnapsack",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch subsetSumBottomUpApproach",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.subsetSumBottomUpApproach",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch insertOperator",
+      "request": "launch",
+      "mainClass": "DSAContest.insertOperator",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
       "name": "Launch howSum",
       "request": "launch",
       "mainClass": "dynamicProgramming.howSum",
