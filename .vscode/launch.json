@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch printLowestCommonSubsequence",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.printLowestCommonSubsequence",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch lowestCommonSubstring",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.lowestCommonSubstring",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch topDownLowestCommonSubsequence",
+      "request": "launch",
+      "mainClass": "dynamicProgramming.topDownLowestCommonSubsequence",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
       "name": "Launch recursiveLowestCommonSubsequence",
       "request": "launch",
       "mainClass": "dynamicProgramming.recursiveLowestCommonSubsequence",

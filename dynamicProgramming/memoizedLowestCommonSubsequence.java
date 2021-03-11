@@ -2,7 +2,7 @@ package dynamicProgramming;
 
 import java.util.Scanner;
 
-public class recursiveLowestCommonSubsequence {
+public class memoizedLowestCommonSubsequence {
 
   public static int lcs(String s1, String s2, int m, int n, int cache[][]) {
     if (cache[m][n] != -1)
