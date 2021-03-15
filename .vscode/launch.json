@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch levelorderTraversal",
+      "request": "launch",
+      "mainClass": "LeetCode.Trees.levelorderTraversal",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch rotateAnArray",
+      "request": "launch",
+      "mainClass": "Arrays.rotateAnArray",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch binaryTreeTraversal",
+      "request": "launch",
+      "mainClass": "trees.binaryTreeTraversal",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch binaryTree",
+      "request": "launch",
+      "mainClass": "trees.binaryTree",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
       "name": "Launch printLowestCommonSubsequence",
       "request": "launch",
       "mainClass": "dynamicProgramming.printLowestCommonSubsequence",
