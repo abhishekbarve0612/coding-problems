@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Client",
+      "request": "launch",
+      "mainClass": "Graphs.Client",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
+      "name": "Launch client",
+      "request": "launch",
+      "mainClass": "Graphs.client",
+      "projectName": "Competitive-Programming_c887ae82"
+    },
+    {
+      "type": "java",
       "name": "Launch levelorderTraversal",
       "request": "launch",
       "mainClass": "LeetCode.Trees.levelorderTraversal",
